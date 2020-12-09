@@ -1,0 +1,13 @@
+C:\Users\jared\Documents\GPA_Calculator\bin\Debug\netcoreapp3.1\GPA_Calculator.exe
+C:\Users\jared\Documents\GPA_Calculator\bin\Debug\netcoreapp3.1\GPA_Calculator.deps.json
+C:\Users\jared\Documents\GPA_Calculator\bin\Debug\netcoreapp3.1\GPA_Calculator.runtimeconfig.json
+C:\Users\jared\Documents\GPA_Calculator\bin\Debug\netcoreapp3.1\GPA_Calculator.runtimeconfig.dev.json
+C:\Users\jared\Documents\GPA_Calculator\bin\Debug\netcoreapp3.1\GPA_Calculator.dll
+C:\Users\jared\Documents\GPA_Calculator\bin\Debug\netcoreapp3.1\GPA_Calculator.pdb
+C:\Users\jared\Documents\GPA_Calculator\obj\Debug\netcoreapp3.1\GPA_Calculator.csprojAssemblyReference.cache
+C:\Users\jared\Documents\GPA_Calculator\obj\Debug\netcoreapp3.1\GPA_Calculator.AssemblyInfoInputs.cache
+C:\Users\jared\Documents\GPA_Calculator\obj\Debug\netcoreapp3.1\GPA_Calculator.AssemblyInfo.cs
+C:\Users\jared\Documents\GPA_Calculator\obj\Debug\netcoreapp3.1\GPA_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\jared\Documents\GPA_Calculator\obj\Debug\netcoreapp3.1\GPA_Calculator.dll
+C:\Users\jared\Documents\GPA_Calculator\obj\Debug\netcoreapp3.1\GPA_Calculator.pdb
+C:\Users\jared\Documents\GPA_Calculator\obj\Debug\netcoreapp3.1\GPA_Calculator.genruntimeconfig.cache
